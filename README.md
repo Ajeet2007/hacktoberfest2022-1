@@ -9,7 +9,6 @@ P.S. Star ⭐ and Share this repository, if you had fun!! 😍
 
 ![Hacktoberfest 2022](https://hacktoberfest.digitalocean.com/_nuxt/img/logo-hacktoberfest-full.f42e3b1.svg)
 
-
 # 📌 Videos:
 
 - [Hacktoberfest Intro](https://youtu.be/OsAFX_ZbgaE)
@@ -17,7 +16,7 @@ P.S. Star ⭐ and Share this repository, if you had fun!! 😍
 - [Merge Conflict / comment](https://youtu.be/zOx5PJTY8CI)
 
 
-# Contribution rules📚:
+# Contribution rules📚:That you have to Follow--
 
 - The project must work when opening Contributors.html
 - You are allowed to make pull requests that break the rules. We just merge it ;)
@@ -35,7 +34,7 @@ P.S. Star ⭐ and Share this repository, if you had fun!! 😍
 - Create a new pull request from your forked repository
 
 
-## Avoid Conflicts (Syncing your fork)
+## Avoid Conflicts (Syncing your fork)-
 
 An easy way to avoid conflicts is to add an 'upstream' for your git repo, as other PR's may be merged while you're working on your branch/fork.   
 
